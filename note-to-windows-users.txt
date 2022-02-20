@@ -1,0 +1,10 @@
+Note To Windows Users:
+
+Choice of Installs:
+
+1. Use WSL to install Pandoc, Python, MiKtex, Make
+
+or
+
+2. Use chocolatey to install Pandoc, Python, Miktex, Make
+
